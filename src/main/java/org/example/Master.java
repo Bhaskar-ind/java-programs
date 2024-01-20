@@ -10,7 +10,9 @@ public class Master {
         System.out.println("Enter the second number:");
         int b = sc.nextInt();
         int c =a+b;
-        System.out.print("Addition of both number:" +c);
+        System.out.println("Addition of both number:" +c);
+        int d= a-b;
+        System.out.println("Subtraction of both number:" +d);
     }
 
 
